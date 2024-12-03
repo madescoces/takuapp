@@ -1,0 +1,2 @@
+# takuapp
+Backend de TakuApp
