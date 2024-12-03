@@ -1,0 +1,13 @@
+server:
+  port: 9000
+  error:
+    whitelabel:
+      enabled: false
+    include-message: always
+    include-binding-errors: always
+    include-exception: true
+    include-stacktrace: never
+
+sprint:
+    application:
+      name: TakuApp-Backend
